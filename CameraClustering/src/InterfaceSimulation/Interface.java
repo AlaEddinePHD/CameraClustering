@@ -99,10 +99,10 @@ public class Interface extends JFrame {
 				FileInputStream fstream;
 				LinkedList<String[]> Liste_interface = new LinkedList<>();
 				try {
-					fstream = new FileInputStream("Matrice de Surfaces.txt");
+					fstream = new FileInputStream("Surface Matrix.txt");
 					BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
 					String line;
-
+					
 					while ((line = br.readLine()) != null) {
 						String[] StringSerface = line.split(" ");
 						Liste_interface.add(StringSerface);
@@ -129,7 +129,7 @@ public class Interface extends JFrame {
 				HierarchicalClassification classification = new HierarchicalClassification(matrice_surface,
 						Liste_Camera);
 				long EndTime = System.currentTimeMillis();
-				File file = new File("Matrice de Surfaces.txt");
+				File file = new File("Surface Matrix.txt");
 				file.delete();
 				System.out.println("Runtime of the clustering algorithm : " + (EndTime - StartTime) + "/ms");
 			}
