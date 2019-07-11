@@ -7,8 +7,7 @@ The objective of this application is to group cameras in the Wireless Multimedia
 
 The application is developed by ***JAVA*** language with ***Eclipse*** (*Mars*) and ***JDK*** 1.7.0_79
 
-## How the application works ?
-<![endif]-->
+# How the application works ?
 
 - First, download the project, then import it into the eclipse.
 - To launch the application, run the *MainPrincipale* class of *InterfaceSimulation* package
