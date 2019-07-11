@@ -106,7 +106,7 @@ class IntersectionpolygonPanel extends JPanel {
 		/** Surface matrix display **/
 		/*** Save the Surface Matrix to a TXT file ***/
 		try {
-			PrintWriter matrice_text = new PrintWriter(new FileWriter("Matrice de Surfaces.txt", true));
+			PrintWriter matrice_text = new PrintWriter(new FileWriter("Surface Matrix.txt", true));
 			for (int i = 0; i < matrice_surface.length; i++) {
 				for (int j = 0; j < matrice_surface.length; j++) {
 					matrice_text.print(matrice_surface[i][j] + " ");
@@ -192,7 +192,7 @@ class IntersectionpolygonPanel extends JPanel {
 		}
 	}
 
-	/** Cette methode retourne la liste des sommets de polygone ordonnée **/
+	/** Cette methode retourne la liste des sommets de polygone ordonnÃ©e **/
 	private LinkedList<double[]> clipPolygon() {
 		intersection_Polygon_Summits = new LinkedList<>();
 
