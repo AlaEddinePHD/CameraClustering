@@ -29,4 +29,4 @@ The application is developed by ***JAVA*** language with ***Eclipse*** (*Mars*) 
 
 > NB 03: The cameras of the same colors mean that are cameras of the same cluster.
 -  After this step, click on the Clustering button to see the clustering result.
-- In the project there is a scenario prepared by a 300 cameras. to test this scenario click on the button (Open cameras) and he will display the network for you.
+- In the project there is a scenario that contains a set of cameras randomly positioned. To test this scenario click on the button (Open cameras) and he will display the network for you.
