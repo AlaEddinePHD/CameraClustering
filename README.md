@@ -23,10 +23,13 @@ The application is developed by ***JAVA*** language with ***Eclipse*** (*Mars*) 
 	- For the "***Remove***" function : choose the corresponding camera identifier. Click on the save then refresh button.
 - Once you have finished drawing the network, click the (*Save Cameras*) button to save the coordinates of the cameras installed in a text file named "*Cameras_list.txt*".
 - To group the cameras, click first on the button (*Trace the Fov*) to find the intersection polygons between camera fields of view (overlaps). The results of this function are the overlapping surface matrix which it saves in a temporal file named "*Surface Matrix.txt*".
+
 > NB 01: Refresh the project to see the file "*Surface Matrix.txt*".
+
 > NB 02: be careful to delete the file "*Surface Matrix.txt*" because it is necessary for the clustring function.
+
 -  After this step, click on the Clustering button to see the clustering result
 
 > NB 03: The cameras of the same colors mean that are cameras of the same cluster.
--  After this step, click on the Clustering button to see the clustering result.
+
 - In the project there is a scenario that contains a set of cameras randomly positioned. To test this scenario click on the button (Open cameras) and he will display the network for you.
