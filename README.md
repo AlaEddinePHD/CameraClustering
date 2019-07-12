@@ -28,7 +28,7 @@ The application is developed by ***JAVA*** language with ***Eclipse*** (*Mars*) 
 
 > NB 02: be careful to delete the file "*Surface Matrix.txt*" because it is necessary for the clustring function.
 
--  After this step, click on the Clustering button to see the clustering result
+-  After this step, click on the (*Clustering*) button to see the clustering result
 
 > NB 03: The cameras of the same colors mean that are cameras of the same cluster.
 
