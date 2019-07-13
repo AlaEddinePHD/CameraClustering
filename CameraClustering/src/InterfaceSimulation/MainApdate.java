@@ -27,7 +27,7 @@ public class MainApdate extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 
-		JButton btnNewButton = new JButton("Withdrawal");
+		JButton btnNewButton = new JButton("Translation");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				Withdrawal withdrawal = new Withdrawal(interface1);
