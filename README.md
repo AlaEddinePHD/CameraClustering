@@ -35,6 +35,6 @@ The application is developed in ***JAVA*** language with ***Eclipse*** (*Mars*) 
 - In the project there is a scenario that contains a set of cameras randomly positioned. To test this scenario click on the button (Open cameras) and it will display the network for you.
 
 
-More details on how to set up and run simulations on AVENS are available in the following publications:
+More details are available in the following publications:
 - Ala-Eddine Benrazek, Farou Brahim, Seridi Hamid, Kouahla Zinedine and Kurulay Muhammet, "Ascending Hierarchical Classification for Camera Clustering Based on FoV Overlaps for WMSN", IET Wireless Sensor Systems, DOI: 10.1049/iet-wss.2019.0030, 29 July 2019.
 - Ala-Eddine, Benrazek, Farou Brahim, and Kurulay Muhammet. "Efficient Camera Clustering Method Based on Overlapping FoVs for WMSNs." International Journal of Informatics and Applied Mathematics 1.1: 11-27, 2019. URL : https://dergipark.org.tr/ijiam/issue/43831/525242
